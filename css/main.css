@@ -54,6 +54,6 @@ main {
     font-style: italic;
 }
 .social-container {
-    background-color: cornflowerblue;
+   /* background-color: cornflowerblue; */
     width: 48px;
 }
