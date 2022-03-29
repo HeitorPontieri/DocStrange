@@ -1,0 +1,22 @@
+:root {
+    --accent-color : #FF031A;
+}
+
+body {
+    height: 100vh;
+    background-color: #000A;
+    background: linear-gradient(90deg, #000, #000E 30%, #000A 40%, #0000),
+                url(../Images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-blend-mode: darken;
+    display: flex;
+    flex-direction: column;
+    padding-left: 128px;
+    padding-right: 128px;
+}
+footer {
+    background-color:  yellow;
+    height: 80px;
+}
