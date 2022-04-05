@@ -1,0 +1,16 @@
+footer {
+    /* background-color: yellow; */
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #fff;
+    font-family: 'Mulish';
+    font-weight: 100;
+    font-style: italic ;
+    
+
+
+        
+
+}
