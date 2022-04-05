@@ -21,13 +21,15 @@ main {
     font-size: 8rem;
     line-height: 5rem;
     color: #ffffff;
-
+    font-weight: 400;
 }
 
 .movie-title {
     color: var(--accent-color);
     font-size: 3.1rem;
     color: var(--accent-color) ;
+    font-weight: 200;
+    font-style: italic;
 }
 
 .movie-content {
