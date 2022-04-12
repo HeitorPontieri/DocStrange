@@ -50,7 +50,7 @@ header {
         
 
     }
-    .menu-burger-container .show ~ .link-container{
+    .menu-burger-container.show ~ .link-container{
         transform: translate(0);
 
     }
