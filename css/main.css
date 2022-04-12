@@ -81,7 +81,7 @@ main {
 
 .social-container a:hover{
     background-color: var(--accent-color);
-    border-color: var (--accent-color);
+    border-color: var(--accent-color);
 
 }
 @media (max-width:768px){
@@ -92,7 +92,7 @@ main {
         display: none;
     }
     .content-container  {
-        gap: 80px;
+        gap: 40px;
         justify-content: flex-end;
         align-items: center;
         padding-bottom: 40px;
