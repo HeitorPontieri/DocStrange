@@ -1,0 +1,93 @@
+:root {
+    --accent-color :#890909;
+}
+
+* {
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--accent-color);
+    font-family: 'Mulish';
+}
+main {
+    flex-grow: 100vh;
+    display: flex;
+    
+}
+
+h1{
+    color: azure;
+}
+.titulo{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    left: 300px;
+    top: 150px;
+    font-size: 48px;
+    
+}
+.text{
+    position: absolute;
+    height: 300px;
+    width: 380px;
+    left: 1200px;
+    top: 450px;
+    color: azure;
+    font-size: large;
+}
+
+
+.img1{
+    position: absolute;
+    width: 363px;
+    height: 204px;
+    left: 682px;
+    top: 67px;
+}
+.img2{
+    position: absolute;
+    width: 363px;
+    height: 204px;
+    left: 1220px;
+    top: 67px;
+}
+.img3{
+    position: absolute;
+    width: 363px;
+    height: 204px;
+    left: 220px;
+    top: 364px;
+    
+}
+.img4{
+    position: absolute;
+    width: 363px;
+    height: 204px;
+    left: 682px;
+    top: 349px;
+}
+.img5{
+    position: absolute;
+    width: 363px;
+    height: 204px;
+    left: 682px;
+    top: 656px;
+}
+.img6{
+    position: absolute;
+    width: 363px;
+    height: 204px;
+    left: 1220px;
+    top: 653px; 
+}
+.img7{
+    position: absolute;
+    width: 363px;
+    height: 204px;
+    left: 220px;
+    top: 656px;
+
+}
