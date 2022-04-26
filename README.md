@@ -21,6 +21,12 @@ Landing page são páginas com foco em cativar o usuário dentro da página e ve
 - JavaScript
 - Figma
 
+---
+## Aparelhos Suportados
+
+- Computadores com acesso a internet
+- Celulares independe do sistema operacional
+
 ## Links 
 - [Resultado Final](https://heitorpontieri.github.io/DocStrange/)
 - [Design Original](https://www.figma.com/file/JG8EUViTlq6iYZX1SQjAnk/Lima-Strange?node-id=0%3A1)
