@@ -3,9 +3,7 @@ Projeto feito durante as aulas de Linguagem de Marcação, LIMA no [SENAI Jandir
 
 ![](./Images/WEB.png)
 
-<img src="./Images/Mobile.png" width ="150px">
-
-<img src="./Images/HOME.png" width ="150px">
+<img src="./Images/Mobile.png" width ="150px"> <img src="./Images/HOME.png" width ="150px">
 
 ---
 
